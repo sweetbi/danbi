@@ -11,4 +11,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
+</br>
