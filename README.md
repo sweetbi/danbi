@@ -10,3 +10,7 @@
 공부했던
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
+
+새로 만든 백준 계정
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sweet_b)](https://solved.ac/sweet_b)
