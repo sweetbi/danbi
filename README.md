@@ -1,4 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Danbi's Github&fontSize=50" />
+
+ 
+## 👀 About Me
+#### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
+#### :fire: I aim to become a Cloud AI Engineer.<br/>
+#### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  <br/>
+  <br/>
+
 <h3 align="center"><b>sᴋɪʟʟs (‘•̀ ▽ •́ )✎</b></h3>
 </br>
 <p align="center">
