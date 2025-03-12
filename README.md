@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Danbi's Github&fontSize=50" />
 
  
-## 👀 About Me
-#### :I major in artificial intelligence.<br/>
-#### :I'm interested in natural language processing<br/>
+##  About Me
+#### 👩‍💻:I major in artificial intelligence.<br/>
+#### 💬:I'm interested in natural language processing<br/>
 
   <br/>
   <br/>
